@@ -1,2 +1,6 @@
+*~
+*.out
+tmp*
+9cc
 build/
 *.out

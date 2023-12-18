@@ -1,6 +1,6 @@
 {
     "C_Cpp.clang_format_path": "/usr/bin/clang-format",
-    "C_Cpp.default.cStandard": "c17",
+    "C_Cpp.default.cStandard": "c11",
     "editor.defaultFormatter": "ms-vscode.cpptools",
     "editor.formatOnSave": true,
     "editor.formatOnPaste": true
